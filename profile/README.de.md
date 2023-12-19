@@ -7,8 +7,7 @@
 
 the plot nft definiert dezentrale Kunst.
 
-Ein hochpräzieser 2D-Stift-Plotter, integriert in eine perfekte Umgebung,<br>
-ermöglicht es, einzigartige Werke zu erschaffen.
+Ein hochpräzieser 2D-Stift-Plotter, integriert in eine perfekte Umgebung, ermöglicht es, einzigartige Werke zu erschaffen.
 
 the plot nft basiert auf Plotterkunst und ist ein Genre der Generativen Kunst.<br>
 Es handelt sich jedoch nicht einfach um Plotterkunst.<br>
