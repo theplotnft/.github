@@ -1,4 +1,4 @@
-# the plot nft
+# the plot nft - decentralized art
 
 the plot nft defines decentralized art.
 
