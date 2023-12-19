@@ -19,4 +19,4 @@ Was hat es mit der perfekten Umgebung auf sich?
 Und welche Rolle spielt der NFT?
 
 Haben wir Ihr Interesse geweckt? Mehr folgt bald!<br>
-Bleiben Sie auf dem Laufenden und folgen Sie the plot nft auf Instagram.
+Bleiben Sie auf dem Laufenden und folgen Sie the plot nft auf [Instagram](https://www.instagram.com/theplotnft/).
