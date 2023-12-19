@@ -20,4 +20,4 @@ What is the perfect environment all about?
 And what role does the NFT play?
 
 Have we aroused your interest? More to follow soon!<br>
-Stay up to date and follow the plot nft on Instagram.
+Stay up to date and follow the plot nft on [Instagram](https://www.instagram.com/theplotnft/).
