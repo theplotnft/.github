@@ -1,4 +1,11 @@
-# the plot nft - decentralized art
+<h1 align="center">
+  the plot nft - decentralized art
+</h1>
+<p align="center">
+  <a href="https://github.com/theplotnft/.github/blob/main/profile/README.md">English</a> | <a href="https://github.com/theplotnft/.github/blob/main/profile/README.de.md">Deutsch</a>
+</p>
+
+
 
 the plot nft defines decentralized art.
 
